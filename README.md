@@ -6,7 +6,7 @@ Provides a high-level view of their progress, upcoming practice tests, streaks, 
 
 ## Design Decisions
 - Minimalistic card layout to keep all key information easily digestible
-- Sidebar for easy access to pages with an expandable tests section to accomodate students prepping for multiiple tests
+- Sidebar with an expandable tests section to accomodate students prepping for multiple tests
 - Streak and Insights to motivate and track weak areas
 - Resposive Layout for accessibility on smaller devices
 
